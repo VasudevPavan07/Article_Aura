@@ -249,6 +249,6 @@ article-aura/
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
-
-Project Link: [https://github.com/your-username/article-aura](https://github.com/your-username/article-aura)
+Vasudev Pavan - [@PavanVasudev107](https://x.com/PavanVasudev107)
+mail_id: pavanvasudev07@gmil.com
+Project Link: https://github.com/VasudevPavan07/Article_Aura
